@@ -1,1 +1,1 @@
-# Quantitative Asset & Risk Management I Course
+# Quantitative Asset & Risk Management I
