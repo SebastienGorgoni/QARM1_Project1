@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Mar 12 10:52:47 2021
-
-@author: guillaume
 """
 
 ## Import librairies
